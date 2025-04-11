@@ -17,10 +17,6 @@ The Fluffy Owl Project aims to revolutionize [brief project description]. Our un
 
 ## 🔍 Key Features
 
-- Feature 1
-- Feature 2
-- Feature 3
-- Feature 4
 
 ## 🌐 Getting Started
 

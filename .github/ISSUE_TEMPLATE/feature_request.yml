@@ -1,0 +1,84 @@
+name: Feature Request
+description: Suggest an idea for The Fluffy Owl Project
+title: "[FEATURE]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## The Owls Welcome Your Vision
+        Thank you for contributing your ideas to The Fluffy Owl Project. Together we can break the cycle.
+        
+  - type: textarea
+    id: problem
+    attributes:
+      label: Is your feature request related to a problem?
+      description: A clear and concise description of what the problem is.
+      placeholder: "I'm always frustrated when..."
+    validations:
+      required: false
+      
+  - type: textarea
+    id: solution
+    attributes:
+      label: Describe the solution you'd like
+      description: A clear and concise description of what you want to happen.
+      placeholder: "The system should..."
+    validations:
+      required: true
+      
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Describe alternatives you've considered
+      description: A clear and concise description of any alternative solutions or features you've considered.
+      placeholder: "I also thought about..."
+    validations:
+      required: false
+      
+  - type: dropdown
+    id: impact
+    attributes:
+      label: Impact of Feature
+      description: How would you rate the impact of this feature?
+      options:
+        - Critical (Fundamental to the project's mission)
+        - High (Would significantly enhance the project)
+        - Medium (Would be a good addition)
+        - Low (Nice to have)
+    validations:
+      required: true
+      
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Add any other context, mockups, or screenshots about the feature request here.
+      
+  - type: checkboxes
+    id: principles
+    attributes:
+      label: Manifesto Principles Alignment
+      description: Which of our manifesto principles does this feature align with?
+      options:
+        - label: AGAINST THE SANITIZED WASTELAND
+          required: false
+        - label: THE MONAD PROTOCOL IS OUR WEAPON
+          required: false
+        - label: FIVE BREEDINGS. FIVE ACTS OF CREATION
+          required: false
+        - label: THE OWLS SEE WHAT OTHERS DO NOT
+          required: false
+        - label: THIS IS YOUR AWAKENING CALL
+          required: false
+        - label: THE CODE IS OUR MANIFESTO
+          required: false
+          
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this feature request, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow The Fluffy Owl Project's Code of Conduct
+          required: true 

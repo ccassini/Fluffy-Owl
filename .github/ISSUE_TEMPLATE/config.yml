@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: The Fluffy Owl Project Community
+    url: https://github.com/ccassini/Fluffy-Owl/discussions
+    about: Please ask and answer questions here.
+  - name: The Fluffy Owl Project Security Concerns
+    url: https://github.com/ccassini/Fluffy-Owl/security/policy
+    about: Please report security vulnerabilities here. 

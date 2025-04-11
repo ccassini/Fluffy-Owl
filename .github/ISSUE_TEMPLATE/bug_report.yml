@@ -1,0 +1,78 @@
+name: Bug Report
+description: File a bug report for The Fluffy Owl Project
+title: "[BUG]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## The Owls See What Others Do Not - Help Us See This Bug
+        Thank you for taking the time to file a bug report. Your feedback helps us improve The Fluffy Owl Project.
+        
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What version of the project are you experiencing the bug on?
+      placeholder: "e.g. v1.0.0, Main branch commit SHA"
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Environment
+      description: Where are you experiencing the bug?
+      options:
+        - Desktop Web Browser
+        - Mobile Web Browser
+        - Desktop Application
+        - Mobile Application
+        - Blockchain Network
+        - Other (please specify)
+    validations:
+      required: true
+      
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the bug in detail. What did you expect to happen and what actually happened?
+      placeholder: "When I attempted to..., I expected..., but instead..."
+    validations:
+      required: true
+      
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Provide clear steps to reproduce the issue
+      placeholder: |
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+    validations:
+      required: true
+      
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code.
+      render: shell
+      
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Add any other context about the problem here (screenshots, videos, etc.)
+      
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow The Fluffy Owl Project's Code of Conduct
+          required: true 

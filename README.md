@@ -22,7 +22,6 @@ The Fluffy Owl Project aims to revolutionize [brief project description]. Our un
 
 1. Start by reading our [Manifesto](THE%20FLUFFY%20OWL%20MANIFESTO%20.pdf) to understand our vision
 2. Dive into the technical details in our [Whitepaper](WhitePaper.pdf)
-3. Join our community (links below)
 
 ## 👥 Community & Contact
 

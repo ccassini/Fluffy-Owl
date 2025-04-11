@@ -4,6 +4,9 @@
 
 Welcome to the official repository of The Fluffy Owl Project - a revolutionary movement combining innovative technology with a strong philosophical foundation.
 
+> **⚠️ DEVELOPMENT STATUS: PRE-ALPHA**  
+> The Fluffy Owl Project is currently in the conceptual and planning phase. No code has been implemented yet. We are focusing on refining our vision, gathering community feedback, and preparing for development.
+
 ### 📚 Core Documents
 
 | Document | Description | Link |
@@ -23,6 +26,26 @@ We are a community project, and together we will develop it over time
 - **THE OWLS SEE WHAT OTHERS DO NOT** - Our unique perspective and vision
 - **THIS IS YOUR AWAKENING CALL** - Our invitation to join the movement
 - **THE CODE IS OUR MANIFESTO** - Our commitment to embedding our values in our technology
+
+## 📅 Development Roadmap
+
+| Phase | Description | Status |
+|-------|-------------|--------|
+| **Phase 1: Conceptualization** | Develop whitepaper & manifesto, establish vision | ✅ Completed |
+| **Phase 2: Community Building** | Gather early supporters and contributors | 🟡 In Progress |
+| **Phase 3: Architecture Design** | Detailed technical planning and system architecture | 🔜 Coming Soon |
+| **Phase 4: Core Development** | Implementation of the Monad Protocol and base infrastructure | 📆 Planned |
+| **Phase 5: The First Breeding** | Initial release and ecosystem growth | 📆 Planned |
+
+## 👥 How to Contribute
+
+While the code implementation hasn't started yet, there are several ways you can contribute to The Fluffy Owl Project:
+
+1. **Review the Whitepaper & Manifesto**: Provide feedback, ask questions, and suggest improvements
+2. **Join our Community**: Engage in discussions and help shape the project's direction
+3. **Share Ideas**: Submit feature requests using our templates
+4. **Spread the Word**: Help us grow the community by sharing our vision
+5. **Prepare for Development**: If you're a developer interested in contributing code in the future, stay connected for updates
 
 ## 🌐 Getting Started
 

@@ -13,7 +13,7 @@ Welcome to the official repository of The Fluffy Owl Project - a revolutionary m
 
 ## 🚀 Project Overview
 
-The Fluffy Owl Project stands against the sanitized digital wasteland. We are creating a revolutionary ecosystem through the Monad Protocol - our weapon to break the existing cycle.
+We are a community project, and together we will develop it over time
 
 ## 🔍 Key Manifesto Principles
 

@@ -11,7 +11,7 @@ Welcome to the official repository of The Fluffy Owl Project - a revolutionary m
 
 | Document | Description | Link |
 |----------|-------------|------|
-| **WHITEPAPER** | Comprehensive technical specifications outlining our technology, tokenomics, architectural design, and implementation plans | [Read the Whitepaper](WhitePaper.pdf) |
+| **WHITEPAPER** | Comprehensive technical specifications outlining our technology, tokenomics, architectural design, and implementation plans | [Read the Whitepaper]([WhitePaper.pdf](https://github.com/ccassini/Fluffy-Owl/blob/main/Whitepaper.pdf)) |
 | **MANIFESTO** | Our philosophical foundation and revolutionary vision: "WE ARE NOT YOUR DIGITAL PETS. WE ARE THE REVOLUTION." | [Read the Manifesto](THE%20FLUFFY%20OWL%20MANIFESTO%20.pdf) |
 
 ## 🚀 Project Overview

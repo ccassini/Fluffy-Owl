@@ -7,7 +7,7 @@ Welcome to the official repository of The Fluffy Owl Project - a revolutionary m
 > **⚠️ DEVELOPMENT STATUS: PRE-ALPHA**  
 > The Fluffy Owl Project is currently in the conceptual and planning phase. No code has been implemented yet. We are focusing on refining our vision, gathering community feedback, and preparing for development.
 
-### 📚 Core Documents
+### 📚 Core Documents 
 
 | Document | Description | Link |
 |----------|-------------|------|
@@ -84,7 +84,7 @@ While the code implementation hasn't started yet, there are several ways you can
 ## 🌐 Getting Started
 
 1. Start by reading our [Manifesto](THE%20FLUFFY%20OWL%20MANIFESTO%20.pdf) to understand our revolutionary vision
-2. Dive into the technical details in our [Whitepaper](WhitePaper.pdf) to understand our technological approach
+2. Dive into the technical details in our [Whitepaper](Whitepaper.pdf) to understand our technological approach
 3. Join our community (links below) to become part of the awakening
 
 ## 👥 Community & Contact

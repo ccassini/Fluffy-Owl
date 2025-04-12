@@ -30,23 +30,36 @@ We are a community project, and together we will develop it over time
   
 💻 Smart Contract Architecture 
 
-Core Contracts for Monad Blockchain 
-(Estimated usable smart contract structure)
-// Core NFT Contracts 
-FluffyOwlEgg.sol       // The initial egg collection 
-FluffyOwlAdult.sol     // Adult Owls that can breed 
-FluffyOwlBaby.sol      // Baby Owls for staking 
- 
-// Token Contracts 
-OWLToken.sol           // Main ecosystem token 
-MONToken.sol           // Special token for first breeding 
- 
-// System Contracts 
-BreedingEngine.sol     // Manages the breeding process 
-StakingPool.sol        // Handles Baby Owl staking 
-GeneticAlgorithm.sol   // Determines inherited traits 
-OwlMarketplace.sol     // Native trading platform 
-RandomnessOracle.sol   // Secure random number generation 
+# Fluffy Owl - Core Smart Contracts (Monad Blockchain)
+
+This section outlines the core smart contract structure of the Fluffy Owl ecosystem running on the Monad blockchain.
+
+## Contract Categories
+
+### 1. Core NFT Contracts
+
+These contracts manage the core NFT assets within the ecosystem.
+
+* `FluffyOwlEgg.sol`: Represents and manages the initial collection of 3333 enchanted eggs (NFT).
+* `FluffyOwlAdult.sol`: Represents the 2222 Adult Fluffy Owls (NFT) hatched from eggs, capable of breeding. Contains data such as gender, traits, and breeding limits.
+* `FluffyOwlBaby.sol`: Represents the Baby Owls (NFT) created through the breeding of Adult Owls, used for staking.
+
+### 2. Token Contracts
+
+These are the token standards that facilitate the economic cycle of the ecosystem.
+
+* `OWLToken.sol`: The main ecosystem token (OWL). Used for breeding fees, staking rewards, and potential governance. (Monad-native token standard)
+* `MONToken.sol`: The special token (MON) required for the first breeding cycle. (Monad-native token standard)
+
+### 3. System Contracts
+
+These contracts execute the main functions and mechanisms of the ecosystem.
+
+* `BreedingEngine.sol`: Manages the pairing of Adult Owls, collection of token fees (MON or OWL), the incubation process, and the minting of Baby Owl NFTs.
+* `StakingPool.sol`: Manages the staking of Baby Owls, calculation, and distribution of OWL token rewards. Determines reward rates based on rarity and traits.
+* `GeneticAlgorithm.sol`: Contains the algorithm that determines which traits Baby Owls inherit from their parents during breeding and the probability of mutations.
+* `OwlMarketplace.sol`: Provides functionality for a native marketplace where Fluffy Owl NFTs (Egg, Adult, Baby) can be traded (Optional, external marketplaces can also be used).
+* `RandomnessOracle.sol`: Provides secure and verifiable random number generation for situations requiring randomness, such as determining hatched owl traits, gender assignment, and mutations in the genetic algorithm (e.g., using Monad's native VRF or an external oracle integration).
 
 ## 📅 Development Roadmap
 

@@ -26,6 +26,8 @@ We are a community project, and together we will develop it over time
 - **THE OWLS SEE WHAT OTHERS DO NOT** - Our unique perspective and vision
 - **THIS IS YOUR AWAKENING CALL** - Our invitation to join the movement
 - **THE CODE IS OUR MANIFESTO** - Our commitment to embedding our values in our technology
+
+  
 💻 Smart Contract Architecture 
 
 Core Contracts for Monad Blockchain 

@@ -58,7 +58,7 @@ These contracts execute the main functions and mechanisms of the ecosystem.
 * `StakingPool.sol`: Manages the staking of Baby Owls, calculation, and distribution of OWL token rewards. Determines reward rates based on rarity and traits.
 * `GeneticAlgorithm.sol`: Contains the algorithm that determines which traits Baby Owls inherit from their parents during breeding and the probability of mutations.
 * `OwlMarketplace.sol`: Provides functionality for a native marketplace where Fluffy Owl NFTs (Egg, Adult, Baby) can be traded (Optional, external marketplaces can also be used).
-* `RandomnessOracle.sol`: Provides secure and verifiable random number generation for situations requiring randomness, such as determining hatched owl traits, gender assignment, and mutations in the genetic algorithm (e.g., using Monad's native VRF or an external oracle integration).
+* `RandomnessOracle.sol`: Provides secure and verifiable random number generation for situations requiring randomness, such as determining hatched owl traits, gender assignment, and mutations in the genetic algorithm (e.g., using Monad's native VRF or an external oracle integration).(Chainlink ,
 
 ## 📅 Development Roadmap
 

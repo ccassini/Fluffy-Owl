@@ -49,7 +49,6 @@ These contracts manage the core NFT assets within the ecosystem.
 These are the token standards that facilitate the economic cycle of the ecosystem.
 
 * `OWLToken.sol`: The main ecosystem token (OWL). Used for breeding fees, staking rewards, and potential governance. (Monad-native token standard)
-* `MONToken.sol`: The special token (MON) required for the first breeding cycle. (Monad-native token standard)
 
 ### 3. System Contracts
 
